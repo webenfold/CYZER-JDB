@@ -1,0 +1,14 @@
+{
+  "name": "webenfold/jdb",
+  "description": "JSON based noSQL Database",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["database", "nosql"],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "JDB\\": "./dist"
+    }
+  }
+}
